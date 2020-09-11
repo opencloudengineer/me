@@ -1,0 +1,26 @@
+{
+  "name": "me",
+  "version": "0.0.1",
+  "description": "About Me",
+  "main": "index.html",
+  "scripts": {
+    "start": "serve"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/opencloudengineer/me.git"
+  },
+  "keywords": [
+    "About Me",
+    "opencloud.engineer"
+  ],
+  "author": "Open Cloud Engineer",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/opencloudengineer/me/issues"
+  },
+  "homepage": "https://github.com/opencloudengineer/me#readme",
+  "devDependencies": {
+    "serve": "^11.2.0"
+  }
+}
