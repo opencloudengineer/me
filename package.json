@@ -21,6 +21,6 @@
   },
   "homepage": "https://github.com/opencloudengineer/me#readme",
   "devDependencies": {
-    "serve": "^11.2.0"
+    "serve": "^11.3.2"
   }
 }
